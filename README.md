@@ -5,3 +5,5 @@ Dibuat oleh tim Mekatronika dan Kecerdasan Buatan 2021 UPI Purwakarta
 
 • Aisyah Aira Putri Maharani - aisyahairaputrim@upi.edu
 • Muhammad Ajis - muhazis02@upi.edu
+
+## Daftar Isi
